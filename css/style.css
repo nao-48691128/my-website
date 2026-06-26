@@ -188,6 +188,10 @@ footer {
 /* スマホ */
 @media (max-width: 768px) {
 
+  h1 {
+    max-width: 97%;
+  }
+
   .container,
   nav ul,
   .mv {
